@@ -1,0 +1,15 @@
+.text-red {
+  color: red;
+  font-size: 5em;
+}
+
+.text-green {
+  color: green;
+  font-size: 5em;
+}
+
+.item-flex-space-around{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
